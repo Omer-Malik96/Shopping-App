@@ -1,4 +1,4 @@
-package com.ecommerceappuicourse
+package com.shoppingapp
 
 import android.app.Application
 import com.facebook.react.PackageList

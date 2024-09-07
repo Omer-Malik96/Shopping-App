@@ -1,5 +1,5 @@
 {
-  "name": "EcommerceAppUICourse",
+  "name": "ShoppingApp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,6 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/app": "^20.4.0",
+    "@react-native-firebase/firestore": "^20.4.0",
     "@react-navigation/native": "^6.1.17",
     "@react-navigation/native-stack": "^6.9.26",
     "@reduxjs/toolkit": "^2.2.7",
